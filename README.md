@@ -1,9 +1,9 @@
 This Streamlit app allows users to:
-Upload a file (CSV, Excel, etc.) 📂
-Convert it into a Pandas DataFrame 🐼
-Ask questions in natural language 🤖
-Get SQL queries & execute them 🔍
-Generate visualizations 📈
+Upload a file (CSV, Excel, etc.) 
+Convert it into a Pandas DataFrame 
+Ask questions in natural language 
+Get SQL queries & execute them 
+Generate visualizations 
 
 HOW TO RUN:
 1. install dependencies
